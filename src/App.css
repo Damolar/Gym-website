@@ -1,0 +1,271 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    /* box-sizing: border-box; */
+}
+
+.nav-link{
+    color: white;
+}
+
+.navbar-brand{
+    color: red;
+}
+
+.progress1{
+    background-image: url(./assets/ladygym_da1pvh.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+.text{
+    color: white;
+    top: 80%;
+    left: 20%;
+    position: absolute;
+}
+
+.offerPage{
+    background-color: #EE4141;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.best{
+    padding-top: 2rem;
+}
+
+.best1{
+    background-color: #fff;
+}
+
+.text1{
+    padding: 1rem;
+    background-color: #EE4141;
+    width: 20rem;
+}
+
+.text2{
+    text-align: start;
+}
+
+.servicePage{
+    background-color: #1A1A1A;
+    text-align: center;
+    padding-top: 3rem;
+    color: #fff;
+    padding-bottom: 5rem;
+}
+
+.service{
+    text-align: start;
+    padding-top: 2rem;
+}
+
+.fitnesspage{
+    background-color: #272727;
+    text-align: center;
+    color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 5rem;
+}
+
+.card-header{
+    background-color: #EE4141;
+    color: #fff;
+    text-align: center;
+}
+
+.card-text{
+    text-align: start;
+}
+
+.icons{
+    display: flex;
+    gap: 15px;
+}
+
+.container1{
+    padding: 0 3rem;
+}
+
+.icon{
+    font-size: 3rem;
+    color: #EE4141;
+}
+
+.service h5{
+    padding-left: 4rem;
+}
+
+.fitness{
+    font-size: 0.9rem;
+    text-align: start;
+}
+
+.studio{
+    padding-bottom: 2rem;
+}
+
+.play1{
+    color: #EE4141;
+}
+
+.play{
+    display: flex;
+    gap: 0.8rem;
+}
+
+.btn{
+    margin-top: 2rem;
+}
+
+.footerPage{
+    background-color: #1A1A1A;
+    padding: 2rem 0;
+}
+
+.foot{
+    color: #fff;
+    text-align: start;
+}
+
+.foot h5{
+    padding-bottom: 1rem;
+}
+
+.about, .service1{
+    text-align: center;
+    background-color: #EE4141;
+    padding: 2rem;
+    color: #fff;
+}
+
+.ourCompany{
+    background-color: #272727;
+    padding: 5rem 0;
+}
+
+.company{
+    color: #fff;
+}
+
+.company h3{
+    padding-bottom: 1rem;
+}
+
+.ourSolution{
+    padding: 5rem;
+    background-color: #1A1A1A;
+    color: #fff;
+}
+
+.accordion-item1{
+    margin-bottom: 1rem;
+}
+
+.solution h3{
+    padding-bottom: 1rem;
+}
+
+.ourBest{
+    padding-top: 5rem;
+    background-color: #272727;
+    color: #fff;
+    padding-bottom: ;
+}
+
+.ourBest h3{
+    padding-bottom: 1rem;
+}
+
+.awesome h5{
+    padding-left: 4rem;
+    background-color: #272727;
+    padding-bottom: 0.5rem;
+}
+
+.awesome{
+    padding-top: 3rem;
+}
+
+.materialDesign{
+    background-color: #272727;
+    padding: 3rem 0;
+}
+
+.experties{
+    padding-bottom: 2rem;
+}
+
+.features{
+    background-color: #1A1A1A;
+    padding-bottom: 3rem;
+}
+
+.latest{
+    color: #fff;
+    padding-bottom: 1.5rem;
+}
+
+.collapsed{
+    gap: 1rem;
+}
+
+.testimonial{
+    background-color: #fff;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.testimonial1{
+    display: flex;
+    gap: 1rem;
+}
+
+.testimonial1 img{
+    border-radius: 50%;
+}
+
+.marc{
+    padding-top: 1rem;
+}
+
+.marc h5{
+    color: #8BC24A;
+}
+
+.marc p{
+    color: #6d6a6a;
+}
+
+.ourTeam{
+    background-color: #272727;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    color: #fff;
+}
+
+.our{
+    padding-bottom: 2rem;
+}
+
+.team{
+    justify-content: center;
+    text-align: center;
+}
+
+.team img {
+    width: 100%;
+    padding-bottom: 0.7rem;
+}
+
+.team p {
+    color: #6d6a6a;
+}
